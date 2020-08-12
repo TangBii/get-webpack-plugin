@@ -1,0 +1,12 @@
+{
+  "name": "get-webpack-plugin",
+  "version": "1.0.5",
+  "description": "get webpack runtime config",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "huang_tang",
+  "license": "ISC"
+}
